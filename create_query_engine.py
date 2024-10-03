@@ -1,3 +1,7 @@
+"""
+Text files used to train the model have been removed, as they are not public files
+"""
+
 import nltk
 import ssl
 import os
